@@ -1,0 +1,8 @@
+README.md
+galaxy/__init__.py
+galaxy/mainwindow.py
+galaxy/start.py
+galaxy.egg-info/PKG-INFO
+galaxy.egg-info/SOURCES.txt
+galaxy.egg-info/dependency_links.txt
+galaxy.egg-info/top_level.txt
